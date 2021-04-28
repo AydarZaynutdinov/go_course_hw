@@ -1,3 +1,3 @@
-# GO course home work
+# GO course homework
 
 Homework for Go course on Coursera
