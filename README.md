@@ -1,2 +1,3 @@
-# go_course_hw
+# GO course home work
+
 Homework for Go course on Coursera
